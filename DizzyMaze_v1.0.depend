@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1489448568 source:c:\users\acer\documents\sfml\dizzymaze_v1.0\main.cpp
+	<iostream>
+	"Menu.h"
+
+1489448574 c:\users\acer\documents\sfml\dizzymaze_v1.0\include\menu.h
+	<string>
+	<fstream>
+	"Game.h"
+	"Instruction.h"
+	"Score.h"
+
+1489448576 source:c:\users\acer\documents\sfml\dizzymaze_v1.0\src\game.cpp
+	"Game.h"
+
+1489448578 source:c:\users\acer\documents\sfml\dizzymaze_v1.0\src\menu.cpp
+	"Menu.h"
+
+1489448572 c:\users\acer\documents\sfml\dizzymaze_v1.0\include\game.h
+	<iostream>
+	"StackVector.h"
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<cstdlib>
+	<ctime>
+	<stack>
+	<sstream>
+
+1489448574 c:\users\acer\documents\sfml\dizzymaze_v1.0\include\stackvector.h
+
+1489448578 source:c:\users\acer\documents\sfml\dizzymaze_v1.0\src\stackvector.cpp
+	"StackVector.h"
+
+1489448574 c:\users\acer\documents\sfml\dizzymaze_v1.0\include\instruction.h
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1489448578 source:c:\users\acer\documents\sfml\dizzymaze_v1.0\src\instruction.cpp
+	"Instruction.h"
+
+1489448578 source:c:\users\acer\documents\sfml\dizzymaze_v1.0\src\score.cpp
+	"Score.h"
+
+1490190932 c:\users\acer\documents\sfml\dizzymaze_v1.0\include\score.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<iostream>
+
+1489451446 source:c:\users\test\desktop\today\dizzymaze_v1.0\main.cpp
+	<iostream>
+	"Menu.h"
+
+1489468788 c:\users\test\desktop\today\dizzymaze_v1.0\include\menu.h
+	<string>
+	<fstream>
+	"Game.h"
+	"Instruction.h"
+	"Score.h"
+
+1489421947 c:\users\test\desktop\today\dizzymaze_v1.0\include\game.h
+	<iostream>
+	"StackVector.h"
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<cstdlib>
+	<ctime>
+	<stack>
+	<sstream>
+
+1488125794 c:\users\test\desktop\today\dizzymaze_v1.0\include\stackvector.h
+
+1488796936 c:\users\test\desktop\today\dizzymaze_v1.0\include\instruction.h
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1489465023 c:\users\test\desktop\today\dizzymaze_v1.0\include\score.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<iostream>
+
+1489472011 source:c:\users\test\desktop\today\dizzymaze_v1.0\src\game.cpp
+	"Game.h"
+
+1489464461 source:c:\users\test\desktop\today\dizzymaze_v1.0\src\instruction.cpp
+	"Instruction.h"
+
+1489468252 source:c:\users\test\desktop\today\dizzymaze_v1.0\src\menu.cpp
+	"Menu.h"
+
+1489453325 source:c:\users\test\desktop\today\dizzymaze_v1.0\src\score.cpp
+	"Score.h"
+
+1488125794 source:c:\users\test\desktop\today\dizzymaze_v1.0\src\stackvector.cpp
+	"StackVector.h"
+
